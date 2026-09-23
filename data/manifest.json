@@ -1,85 +1,106 @@
 {
   "project": "Rubiknesia Ranking Timer",
-  "generated_at": "2026-09-23T18:07:03.445695+00:00",
+  "data_schema_version": 2,
+  "generated_at": "2026-09-23T18:38:33.577340+00:00",
   "export_date": "2026-09-23T13:28:40Z",
   "export_version": "v2.0.2",
   "source": "World Cube Association",
   "source_url": "https://www.worldcubeassociation.org/export/results",
   "attribution": "This information is based on competition results owned and maintained by the World Cube Association, published at https://worldcubeassociation.org/results as of 2026-09-23.",
+  "ranking_note": "World, continental and national simulations use WCA results export data. Gender filters are custom Rubiknesia simulations derived from public WCA competitor gender data and are not official WCA gender rankings.",
+  "regions_file": "regions.json",
   "scramble_sample_limit": 5000,
   "scrambles_per_file": 250,
   "events": {
     "222": {
       "name": "2x2 Cube",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "333": {
       "name": "3x3 Cube",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "444": {
       "name": "4x4 Cube",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "555": {
       "name": "5x5 Cube",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "666": {
       "name": "6x6 Cube",
-      "format": "time"
+      "format": "time",
+      "official_average": "mo3"
     },
     "777": {
       "name": "7x7 Cube",
-      "format": "time"
+      "format": "time",
+      "official_average": "mo3"
     },
     "333oh": {
       "name": "3x3 One-Handed",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "333bf": {
       "name": "3x3 Blindfolded",
-      "format": "time"
+      "format": "time",
+      "official_average": "mo3"
     },
     "444bf": {
       "name": "4x4 Blindfolded",
-      "format": "time"
+      "format": "time",
+      "official_average": "mo3"
     },
     "555bf": {
       "name": "5x5 Blindfolded",
-      "format": "time"
+      "format": "time",
+      "official_average": "mo3"
     },
     "333fm": {
       "name": "3x3 Fewest Moves",
-      "format": "number"
+      "format": "number",
+      "official_average": "mo3"
     },
     "333mbf": {
       "name": "3x3 Multi-Blind",
-      "format": "multi"
+      "format": "multi",
+      "official_average": null
     },
     "clock": {
       "name": "Clock",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "minx": {
       "name": "Megaminx",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "pyram": {
       "name": "Pyraminx",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "skewb": {
       "name": "Skewb",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "sq1": {
       "name": "Square-1",
-      "format": "time"
+      "format": "time",
+      "official_average": "ao5"
     },
     "333ft": {
       "name": "3x3 With Feet",
       "format": "time",
+      "official_average": "ao5",
       "legacy": true
     }
   },
@@ -173,6 +194,116 @@
       "file": "ranking/333ft.json",
       "single_count": 3265,
       "average_count": 2384
+    }
+  },
+  "filtered_ranking": {
+    "222": {
+      "index": "ranking-filtered/222/index.json",
+      "world_gender": "ranking-filtered/222/world.json",
+      "continent_count": 6,
+      "country_count": 161
+    },
+    "333": {
+      "index": "ranking-filtered/333/index.json",
+      "world_gender": "ranking-filtered/333/world.json",
+      "continent_count": 6,
+      "country_count": 166
+    },
+    "444": {
+      "index": "ranking-filtered/444/index.json",
+      "world_gender": "ranking-filtered/444/world.json",
+      "continent_count": 6,
+      "country_count": 152
+    },
+    "555": {
+      "index": "ranking-filtered/555/index.json",
+      "world_gender": "ranking-filtered/555/world.json",
+      "continent_count": 6,
+      "country_count": 141
+    },
+    "666": {
+      "index": "ranking-filtered/666/index.json",
+      "world_gender": "ranking-filtered/666/world.json",
+      "continent_count": 6,
+      "country_count": 125
+    },
+    "777": {
+      "index": "ranking-filtered/777/index.json",
+      "world_gender": "ranking-filtered/777/world.json",
+      "continent_count": 6,
+      "country_count": 122
+    },
+    "333oh": {
+      "index": "ranking-filtered/333oh/index.json",
+      "world_gender": "ranking-filtered/333oh/world.json",
+      "continent_count": 6,
+      "country_count": 152
+    },
+    "333bf": {
+      "index": "ranking-filtered/333bf/index.json",
+      "world_gender": "ranking-filtered/333bf/world.json",
+      "continent_count": 6,
+      "country_count": 117
+    },
+    "444bf": {
+      "index": "ranking-filtered/444bf/index.json",
+      "world_gender": "ranking-filtered/444bf/world.json",
+      "continent_count": 6,
+      "country_count": 84
+    },
+    "555bf": {
+      "index": "ranking-filtered/555bf/index.json",
+      "world_gender": "ranking-filtered/555bf/world.json",
+      "continent_count": 6,
+      "country_count": 70
+    },
+    "333fm": {
+      "index": "ranking-filtered/333fm/index.json",
+      "world_gender": "ranking-filtered/333fm/world.json",
+      "continent_count": 6,
+      "country_count": 115
+    },
+    "333mbf": {
+      "index": "ranking-filtered/333mbf/index.json",
+      "world_gender": "ranking-filtered/333mbf/world.json",
+      "continent_count": 6,
+      "country_count": 91
+    },
+    "clock": {
+      "index": "ranking-filtered/clock/index.json",
+      "world_gender": "ranking-filtered/clock/world.json",
+      "continent_count": 6,
+      "country_count": 133
+    },
+    "minx": {
+      "index": "ranking-filtered/minx/index.json",
+      "world_gender": "ranking-filtered/minx/world.json",
+      "continent_count": 6,
+      "country_count": 138
+    },
+    "pyram": {
+      "index": "ranking-filtered/pyram/index.json",
+      "world_gender": "ranking-filtered/pyram/world.json",
+      "continent_count": 6,
+      "country_count": 157
+    },
+    "skewb": {
+      "index": "ranking-filtered/skewb/index.json",
+      "world_gender": "ranking-filtered/skewb/world.json",
+      "continent_count": 6,
+      "country_count": 149
+    },
+    "sq1": {
+      "index": "ranking-filtered/sq1/index.json",
+      "world_gender": "ranking-filtered/sq1/world.json",
+      "continent_count": 6,
+      "country_count": 131
+    },
+    "333ft": {
+      "index": "ranking-filtered/333ft/index.json",
+      "world_gender": "ranking-filtered/333ft/world.json",
+      "continent_count": 6,
+      "country_count": 87
     }
   },
   "scrambles": {
