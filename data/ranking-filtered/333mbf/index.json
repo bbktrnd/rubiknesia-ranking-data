@@ -4,7 +4,7 @@
   "name": "3x3 Multi-Blind",
   "format": "multi",
   "official_average": null,
-  "export_date": "2026-09-23T13:28:40Z",
+  "export_date": "2026-09-24T00:00:14Z",
   "world": {
     "all": "ranking/333mbf.json",
     "gender": "ranking-filtered/333mbf/world.json"
