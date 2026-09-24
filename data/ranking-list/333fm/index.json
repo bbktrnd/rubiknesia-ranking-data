@@ -1,0 +1,7 @@
+{
+  "schema_version": 3,
+  "event": "333fm",
+  "export_date": "2026-09-24T13:03:55Z",
+  "single": "ranking-list/333fm/single/index.json",
+  "average": "ranking-list/333fm/average/index.json"
+}

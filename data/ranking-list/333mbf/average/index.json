@@ -1,0 +1,1 @@
+{"schema_version":3,"event":"333mbf","type":"average","export_date":"2026-09-24T13:03:55Z","total":0,"target_rows_per_file":1000,"ties_split_across_files":false,"row_format":["value","wca_id","name","country_key","continent_key","gender"],"files":[],"groups":{"world":{},"continents":{},"countries":{}}}

@@ -1,10 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "event": "sq1",
   "name": "Square-1",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-09-24T00:00:14Z",
+  "export_date": "2026-09-24T13:03:55Z",
   "world": {
     "all": "ranking/sq1.json",
     "gender": "ranking-filtered/sq1/world.json"

@@ -1,10 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "event": "333fm",
   "name": "3x3 Fewest Moves",
   "format": "number",
   "official_average": "mo3",
-  "export_date": "2026-09-24T00:00:14Z",
+  "export_date": "2026-09-24T13:03:55Z",
   "world": {
     "all": "ranking/333fm.json",
     "gender": "ranking-filtered/333fm/world.json"

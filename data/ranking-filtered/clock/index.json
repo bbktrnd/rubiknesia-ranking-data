@@ -1,10 +1,10 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "event": "clock",
   "name": "Clock",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-09-24T00:00:14Z",
+  "export_date": "2026-09-24T13:03:55Z",
   "world": {
     "all": "ranking/clock.json",
     "gender": "ranking-filtered/clock/world.json"
