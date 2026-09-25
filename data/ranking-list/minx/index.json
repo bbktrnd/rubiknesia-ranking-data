@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "event": "minx",
-  "export_date": "2026-09-24T13:03:55Z",
+  "export_date": "2026-09-24T19:32:33Z",
   "single": "ranking-list/minx/single/index.json",
   "average": "ranking-list/minx/average/index.json"
 }

@@ -1,8 +1,8 @@
 {
   "project": "Rubiknesia Ranking Timer",
   "data_schema_version": 3,
-  "generated_at": "2026-09-24T18:01:14.888463+00:00",
-  "export_date": "2026-09-24T13:03:55Z",
+  "generated_at": "2026-09-25T03:32:26.071936+00:00",
+  "export_date": "2026-09-24T19:32:33Z",
   "export_version": "v2.0.2",
   "source": "World Cube Association",
   "source_url": "https://www.worldcubeassociation.org/export/results",
@@ -119,22 +119,22 @@
     },
     "444": {
       "file": "ranking/444.json",
-      "single_count": 84337,
+      "single_count": 84338,
       "average_count": 54837
     },
     "555": {
       "file": "ranking/555.json",
-      "single_count": 41003,
+      "single_count": 41005,
       "average_count": 26761
     },
     "666": {
       "file": "ranking/666.json",
-      "single_count": 17606,
-      "average_count": 12897
+      "single_count": 17609,
+      "average_count": 12898
     },
     "777": {
       "file": "ranking/777.json",
-      "single_count": 14297,
+      "single_count": 14299,
       "average_count": 9987
     },
     "333oh": {
@@ -325,28 +325,28 @@
     },
     "444": {
       "index": "ranking-list/444/index.json",
-      "single_count": 84337,
+      "single_count": 84338,
       "single_shards": 84,
       "average_count": 54837,
       "average_shards": 55
     },
     "555": {
       "index": "ranking-list/555/index.json",
-      "single_count": 41003,
+      "single_count": 41005,
       "single_shards": 41,
       "average_count": 26761,
       "average_shards": 27
     },
     "666": {
       "index": "ranking-list/666/index.json",
-      "single_count": 17606,
+      "single_count": 17609,
       "single_shards": 18,
-      "average_count": 12897,
+      "average_count": 12898,
       "average_shards": 13
     },
     "777": {
       "index": "ranking-list/777/index.json",
-      "single_count": 14297,
+      "single_count": 14299,
       "single_shards": 15,
       "average_count": 9987,
       "average_shards": 10
@@ -449,22 +449,22 @@
     },
     "444": {
       "index": "scrambles/444/index.json",
-      "source_total": 290786,
+      "source_total": 290800,
       "available": 5000
     },
     "555": {
       "index": "scrambles/555/index.json",
-      "source_total": 171666,
+      "source_total": 171694,
       "available": 5000
     },
     "666": {
       "index": "scrambles/666/index.json",
-      "source_total": 66665,
+      "source_total": 66685,
       "available": 5000
     },
     "777": {
       "index": "scrambles/777/index.json",
-      "source_total": 62194,
+      "source_total": 62209,
       "available": 5000
     },
     "333oh": {
