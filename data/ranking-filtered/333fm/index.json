@@ -4,7 +4,7 @@
   "name": "3x3 Fewest Moves",
   "format": "number",
   "official_average": "mo3",
-  "export_date": "2026-09-24T19:32:33Z",
+  "export_date": "2026-09-26T00:00:26Z",
   "world": {
     "all": "ranking/333fm.json",
     "gender": "ranking-filtered/333fm/world.json"

@@ -4,7 +4,7 @@
   "name": "Clock",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-09-24T19:32:33Z",
+  "export_date": "2026-09-26T00:00:26Z",
   "world": {
     "all": "ranking/clock.json",
     "gender": "ranking-filtered/clock/world.json"

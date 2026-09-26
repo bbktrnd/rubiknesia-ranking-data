@@ -1,12 +1,12 @@
 {
   "project": "Rubiknesia Ranking Timer",
   "data_schema_version": 3,
-  "generated_at": "2026-09-25T03:32:26.071936+00:00",
-  "export_date": "2026-09-24T19:32:33Z",
+  "generated_at": "2026-09-26T03:32:18.499983+00:00",
+  "export_date": "2026-09-26T00:00:26Z",
   "export_version": "v2.0.2",
   "source": "World Cube Association",
   "source_url": "https://www.worldcubeassociation.org/export/results",
-  "attribution": "This information is based on competition results owned and maintained by the World Cube Association, published at https://worldcubeassociation.org/results as of 2026-09-24.",
+  "attribution": "This information is based on competition results owned and maintained by the World Cube Association, published at https://worldcubeassociation.org/results as of 2026-09-26.",
   "ranking_note": "World, continental and national simulations use WCA results export data. Gender filters are Rubiknesia simulations derived from public WCA competitor data. Practice results are not official WCA results.",
   "ranking_list_note": "Detailed ranking rows are sharded global lists. Compact membership indexes let the client retrieve nearby competitors for selected region and gender filters without duplicating the complete ranking.",
   "regions_file": "regions.json",
@@ -109,43 +109,43 @@
   "ranking": {
     "222": {
       "file": "ranking/222.json",
-      "single_count": 187676,
-      "average_count": 182698
+      "single_count": 187728,
+      "average_count": 182750
     },
     "333": {
       "file": "ranking/333.json",
-      "single_count": 285976,
-      "average_count": 280617
+      "single_count": 286055,
+      "average_count": 280694
     },
     "444": {
       "file": "ranking/444.json",
-      "single_count": 84338,
-      "average_count": 54837
+      "single_count": 84373,
+      "average_count": 54874
     },
     "555": {
       "file": "ranking/555.json",
-      "single_count": 41005,
-      "average_count": 26761
+      "single_count": 41023,
+      "average_count": 26780
     },
     "666": {
       "file": "ranking/666.json",
-      "single_count": 17609,
-      "average_count": 12898
+      "single_count": 17626,
+      "average_count": 12915
     },
     "777": {
       "file": "ranking/777.json",
-      "single_count": 14299,
-      "average_count": 9987
+      "single_count": 14307,
+      "average_count": 9998
     },
     "333oh": {
       "file": "ranking/333oh.json",
-      "single_count": 74042,
-      "average_count": 57762
+      "single_count": 74064,
+      "average_count": 57790
     },
     "333bf": {
       "file": "ranking/333bf.json",
-      "single_count": 12244,
-      "average_count": 3745
+      "single_count": 12247,
+      "average_count": 3746
     },
     "444bf": {
       "file": "ranking/444bf.json",
@@ -169,28 +169,28 @@
     },
     "clock": {
       "file": "ranking/clock.json",
-      "single_count": 32320,
-      "average_count": 25083
+      "single_count": 32350,
+      "average_count": 25116
     },
     "minx": {
       "file": "ranking/minx.json",
-      "single_count": 35028,
-      "average_count": 21059
+      "single_count": 35050,
+      "average_count": 21088
     },
     "pyram": {
       "file": "ranking/pyram.json",
-      "single_count": 130042,
-      "average_count": 125022
+      "single_count": 130064,
+      "average_count": 125044
     },
     "skewb": {
       "file": "ranking/skewb.json",
-      "single_count": 73592,
-      "average_count": 70540
+      "single_count": 73604,
+      "average_count": 70552
     },
     "sq1": {
       "file": "ranking/sq1.json",
-      "single_count": 25430,
-      "average_count": 19231
+      "single_count": 25433,
+      "average_count": 19234
     },
     "333ft": {
       "file": "ranking/333ft.json",
@@ -311,58 +311,58 @@
   "ranking_list": {
     "222": {
       "index": "ranking-list/222/index.json",
-      "single_count": 187676,
+      "single_count": 187728,
       "single_shards": 174,
-      "average_count": 182698,
+      "average_count": 182750,
       "average_shards": 174
     },
     "333": {
       "index": "ranking-list/333/index.json",
-      "single_count": 285976,
+      "single_count": 286055,
       "single_shards": 278,
-      "average_count": 280617,
+      "average_count": 280694,
       "average_shards": 275
     },
     "444": {
       "index": "ranking-list/444/index.json",
-      "single_count": 84338,
-      "single_shards": 84,
-      "average_count": 54837,
+      "single_count": 84373,
+      "single_shards": 85,
+      "average_count": 54874,
       "average_shards": 55
     },
     "555": {
       "index": "ranking-list/555/index.json",
-      "single_count": 41005,
+      "single_count": 41023,
       "single_shards": 41,
-      "average_count": 26761,
+      "average_count": 26780,
       "average_shards": 27
     },
     "666": {
       "index": "ranking-list/666/index.json",
-      "single_count": 17609,
+      "single_count": 17626,
       "single_shards": 18,
-      "average_count": 12898,
+      "average_count": 12915,
       "average_shards": 13
     },
     "777": {
       "index": "ranking-list/777/index.json",
-      "single_count": 14299,
+      "single_count": 14307,
       "single_shards": 15,
-      "average_count": 9987,
+      "average_count": 9998,
       "average_shards": 10
     },
     "333oh": {
       "index": "ranking-list/333oh/index.json",
-      "single_count": 74042,
+      "single_count": 74064,
       "single_shards": 74,
-      "average_count": 57762,
+      "average_count": 57790,
       "average_shards": 58
     },
     "333bf": {
       "index": "ranking-list/333bf/index.json",
-      "single_count": 12244,
+      "single_count": 12247,
       "single_shards": 13,
-      "average_count": 3745,
+      "average_count": 3746,
       "average_shards": 4
     },
     "444bf": {
@@ -395,37 +395,37 @@
     },
     "clock": {
       "index": "ranking-list/clock/index.json",
-      "single_count": 32320,
+      "single_count": 32350,
       "single_shards": 33,
-      "average_count": 25083,
-      "average_shards": 25
+      "average_count": 25116,
+      "average_shards": 26
     },
     "minx": {
       "index": "ranking-list/minx/index.json",
-      "single_count": 35028,
+      "single_count": 35050,
       "single_shards": 36,
-      "average_count": 21059,
+      "average_count": 21088,
       "average_shards": 22
     },
     "pyram": {
       "index": "ranking-list/pyram/index.json",
-      "single_count": 130042,
+      "single_count": 130064,
       "single_shards": 126,
-      "average_count": 125022,
+      "average_count": 125044,
       "average_shards": 122
     },
     "skewb": {
       "index": "ranking-list/skewb/index.json",
-      "single_count": 73592,
+      "single_count": 73604,
       "single_shards": 73,
-      "average_count": 70540,
+      "average_count": 70552,
       "average_shards": 70
     },
     "sq1": {
       "index": "ranking-list/sq1/index.json",
-      "single_count": 25430,
+      "single_count": 25433,
       "single_shards": 26,
-      "average_count": 19231,
+      "average_count": 19234,
       "average_shards": 20
     },
     "333ft": {
@@ -439,42 +439,42 @@
   "scrambles": {
     "222": {
       "index": "scrambles/222/index.json",
-      "source_total": 452895,
+      "source_total": 453042,
       "available": 5000
     },
     "333": {
       "index": "scrambles/333/index.json",
-      "source_total": 743934,
+      "source_total": 744277,
       "available": 5000
     },
     "444": {
       "index": "scrambles/444/index.json",
-      "source_total": 290800,
+      "source_total": 290947,
       "available": 5000
     },
     "555": {
       "index": "scrambles/555/index.json",
-      "source_total": 171694,
+      "source_total": 171771,
       "available": 5000
     },
     "666": {
       "index": "scrambles/666/index.json",
-      "source_total": 66685,
+      "source_total": 66730,
       "available": 5000
     },
     "777": {
       "index": "scrambles/777/index.json",
-      "source_total": 62209,
+      "source_total": 62249,
       "available": 5000
     },
     "333oh": {
       "index": "scrambles/333oh/index.json",
-      "source_total": 254748,
+      "source_total": 254853,
       "available": 5000
     },
     "333bf": {
       "index": "scrambles/333bf/index.json",
-      "source_total": 103641,
+      "source_total": 103648,
       "available": 5000
     },
     "444bf": {
@@ -499,27 +499,27 @@
     },
     "clock": {
       "index": "scrambles/clock/index.json",
-      "source_total": 145891,
+      "source_total": 145961,
       "available": 5000
     },
     "minx": {
       "index": "scrambles/minx/index.json",
-      "source_total": 145842,
+      "source_total": 145926,
       "available": 5000
     },
     "pyram": {
       "index": "scrambles/pyram/index.json",
-      "source_total": 325303,
+      "source_total": 325387,
       "available": 5000
     },
     "skewb": {
       "index": "scrambles/skewb/index.json",
-      "source_total": 233697,
+      "source_total": 233767,
       "available": 5000
     },
     "sq1": {
       "index": "scrambles/sq1/index.json",
-      "source_total": 131010,
+      "source_total": 131024,
       "available": 5000
     },
     "333ft": {
