@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "event": "333ft",
-  "export_date": "2026-09-27T00:00:42Z",
+  "export_date": "2026-09-29T00:00:22Z",
   "single": "ranking-list/333ft/single/index.json",
   "average": "ranking-list/333ft/average/index.json"
 }

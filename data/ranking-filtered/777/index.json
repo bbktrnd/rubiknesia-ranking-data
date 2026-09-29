@@ -4,7 +4,7 @@
   "name": "7x7 Cube",
   "format": "time",
   "official_average": "mo3",
-  "export_date": "2026-09-27T00:00:42Z",
+  "export_date": "2026-09-29T00:00:22Z",
   "world": {
     "all": "ranking/777.json",
     "gender": "ranking-filtered/777/world.json"

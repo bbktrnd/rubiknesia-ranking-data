@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "event": "666",
-  "export_date": "2026-09-27T00:00:42Z",
+  "export_date": "2026-09-29T00:00:22Z",
   "single": "ranking-list/666/single/index.json",
   "average": "ranking-list/666/average/index.json"
 }
