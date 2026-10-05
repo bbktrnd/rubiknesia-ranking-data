@@ -4,7 +4,7 @@
   "name": "Square-1",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-10-03T00:00:28Z",
+  "export_date": "2026-10-05T00:00:27Z",
   "world": {
     "all": "ranking/sq1.json",
     "gender": "ranking-filtered/sq1/world.json"
