@@ -1,7 +1,7 @@
 {
   "event": "minx",
   "name": "Megaminx",
-  "source_total": 146871,
+  "source_total": 146885,
   "available": 5000,
   "per_file": 250,
   "files": [
