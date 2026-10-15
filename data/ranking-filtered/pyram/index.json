@@ -4,7 +4,7 @@
   "name": "Pyraminx",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-10-14T00:00:33Z",
+  "export_date": "2026-10-15T00:00:17Z",
   "world": {
     "all": "ranking/pyram.json",
     "gender": "ranking-filtered/pyram/world.json"
