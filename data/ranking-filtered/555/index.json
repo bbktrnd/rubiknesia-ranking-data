@@ -4,7 +4,7 @@
   "name": "5x5 Cube",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-10-15T00:00:17Z",
+  "export_date": "2026-10-17T00:00:15Z",
   "world": {
     "all": "ranking/555.json",
     "gender": "ranking-filtered/555/world.json"
