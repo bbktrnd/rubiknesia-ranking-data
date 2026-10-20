@@ -4,7 +4,7 @@
   "name": "6x6 Cube",
   "format": "time",
   "official_average": "mo3",
-  "export_date": "2026-10-18T00:00:15Z",
+  "export_date": "2026-10-20T00:00:27Z",
   "world": {
     "all": "ranking/666.json",
     "gender": "ranking-filtered/666/world.json"
@@ -39,6 +39,7 @@
     "bz": "ranking-filtered/666/countries/bz.json",
     "ca": "ranking-filtered/666/countries/ca.json",
     "ch": "ranking-filtered/666/countries/ch.json",
+    "ci": "ranking-filtered/666/countries/ci.json",
     "cl": "ranking-filtered/666/countries/cl.json",
     "cm": "ranking-filtered/666/countries/cm.json",
     "cn": "ranking-filtered/666/countries/cn.json",
