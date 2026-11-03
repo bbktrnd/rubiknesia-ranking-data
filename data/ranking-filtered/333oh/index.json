@@ -4,7 +4,7 @@
   "name": "3x3 One-Handed",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-11-02T00:00:38Z",
+  "export_date": "2026-11-03T00:00:11Z",
   "world": {
     "all": "ranking/333oh.json",
     "gender": "ranking-filtered/333oh/world.json"
@@ -83,6 +83,7 @@
     "ir": "ranking-filtered/333oh/countries/ir.json",
     "is": "ranking-filtered/333oh/countries/is.json",
     "it": "ranking-filtered/333oh/countries/it.json",
+    "jm": "ranking-filtered/333oh/countries/jm.json",
     "jo": "ranking-filtered/333oh/countries/jo.json",
     "jp": "ranking-filtered/333oh/countries/jp.json",
     "ke": "ranking-filtered/333oh/countries/ke.json",
