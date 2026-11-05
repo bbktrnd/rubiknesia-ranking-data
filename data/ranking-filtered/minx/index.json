@@ -4,7 +4,7 @@
   "name": "Megaminx",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-11-03T00:00:11Z",
+  "export_date": "2026-11-05T00:30:22Z",
   "world": {
     "all": "ranking/minx.json",
     "gender": "ranking-filtered/minx/world.json"
