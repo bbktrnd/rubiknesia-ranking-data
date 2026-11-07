@@ -1,7 +1,7 @@
 {
   "event": "pyram",
   "name": "Pyraminx",
-  "source_total": 331379,
+  "source_total": 331435,
   "available": 5000,
   "per_file": 250,
   "files": [

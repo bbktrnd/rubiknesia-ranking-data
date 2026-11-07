@@ -4,7 +4,7 @@
   "name": "3x3 One-Handed",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-11-06T00:30:25Z",
+  "export_date": "2026-11-07T00:30:15Z",
   "world": {
     "all": "ranking/333oh.json",
     "gender": "ranking-filtered/333oh/world.json"
