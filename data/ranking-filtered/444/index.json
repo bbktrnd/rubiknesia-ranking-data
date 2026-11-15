@@ -4,7 +4,7 @@
   "name": "4x4 Cube",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-11-14T00:30:10Z",
+  "export_date": "2026-11-15T00:30:08Z",
   "world": {
     "all": "ranking/444.json",
     "gender": "ranking-filtered/444/world.json"
@@ -148,6 +148,7 @@
     "sr": "ranking-filtered/444/countries/sr.json",
     "sv": "ranking-filtered/444/countries/sv.json",
     "sy": "ranking-filtered/444/countries/sy.json",
+    "sz": "ranking-filtered/444/countries/sz.json",
     "tg": "ranking-filtered/444/countries/tg.json",
     "th": "ranking-filtered/444/countries/th.json",
     "tj": "ranking-filtered/444/countries/tj.json",

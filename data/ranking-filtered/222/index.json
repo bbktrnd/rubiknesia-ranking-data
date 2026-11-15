@@ -4,7 +4,7 @@
   "name": "2x2 Cube",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-11-14T00:30:10Z",
+  "export_date": "2026-11-15T00:30:08Z",
   "world": {
     "all": "ranking/222.json",
     "gender": "ranking-filtered/222/world.json"
@@ -156,6 +156,7 @@
     "sr": "ranking-filtered/222/countries/sr.json",
     "sv": "ranking-filtered/222/countries/sv.json",
     "sy": "ranking-filtered/222/countries/sy.json",
+    "sz": "ranking-filtered/222/countries/sz.json",
     "tg": "ranking-filtered/222/countries/tg.json",
     "th": "ranking-filtered/222/countries/th.json",
     "tj": "ranking-filtered/222/countries/tj.json",
