@@ -4,7 +4,7 @@
   "name": "Pyraminx",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-11-18T00:30:11Z",
+  "export_date": "2026-11-19T00:30:20Z",
   "world": {
     "all": "ranking/pyram.json",
     "gender": "ranking-filtered/pyram/world.json"
@@ -40,6 +40,7 @@
     "br": "ranking-filtered/pyram/countries/br.json",
     "bs": "ranking-filtered/pyram/countries/bs.json",
     "bt": "ranking-filtered/pyram/countries/bt.json",
+    "bw": "ranking-filtered/pyram/countries/bw.json",
     "by": "ranking-filtered/pyram/countries/by.json",
     "bz": "ranking-filtered/pyram/countries/bz.json",
     "ca": "ranking-filtered/pyram/countries/ca.json",
