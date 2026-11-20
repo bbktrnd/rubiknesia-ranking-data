@@ -4,7 +4,7 @@
   "name": "3x3 Blindfolded",
   "format": "time",
   "official_average": "mo3",
-  "export_date": "2026-11-19T00:30:20Z",
+  "export_date": "2026-11-20T00:30:01Z",
   "world": {
     "all": "ranking/333bf.json",
     "gender": "ranking-filtered/333bf/world.json"
