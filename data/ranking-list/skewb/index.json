@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "event": "skewb",
-  "export_date": "2026-11-20T00:30:01Z",
+  "export_date": "2026-11-21T00:30:06Z",
   "single": "ranking-list/skewb/single/index.json",
   "average": "ranking-list/skewb/average/index.json"
 }

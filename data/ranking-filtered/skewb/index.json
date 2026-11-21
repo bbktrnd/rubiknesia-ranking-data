@@ -4,7 +4,7 @@
   "name": "Skewb",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-11-20T00:30:01Z",
+  "export_date": "2026-11-21T00:30:06Z",
   "world": {
     "all": "ranking/skewb.json",
     "gender": "ranking-filtered/skewb/world.json"
