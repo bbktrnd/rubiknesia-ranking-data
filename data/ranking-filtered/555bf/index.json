@@ -4,7 +4,7 @@
   "name": "5x5 Blindfolded",
   "format": "time",
   "official_average": "mo3",
-  "export_date": "2026-11-23T00:30:11Z",
+  "export_date": "2026-11-24T00:30:11Z",
   "world": {
     "all": "ranking/555bf.json",
     "gender": "ranking-filtered/555bf/world.json"
@@ -60,6 +60,7 @@
     "lt": "ranking-filtered/555bf/countries/lt.json",
     "lu": "ranking-filtered/555bf/countries/lu.json",
     "lv": "ranking-filtered/555bf/countries/lv.json",
+    "mn": "ranking-filtered/555bf/countries/mn.json",
     "mo": "ranking-filtered/555bf/countries/mo.json",
     "mx": "ranking-filtered/555bf/countries/mx.json",
     "my": "ranking-filtered/555bf/countries/my.json",

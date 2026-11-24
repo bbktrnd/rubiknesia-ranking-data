@@ -4,7 +4,7 @@
   "name": "Square-1",
   "format": "time",
   "official_average": "ao5",
-  "export_date": "2026-11-23T00:30:11Z",
+  "export_date": "2026-11-24T00:30:11Z",
   "world": {
     "all": "ranking/sq1.json",
     "gender": "ranking-filtered/sq1/world.json"
@@ -112,6 +112,7 @@
     "no": "ranking-filtered/sq1/countries/no.json",
     "np": "ranking-filtered/sq1/countries/np.json",
     "nz": "ranking-filtered/sq1/countries/nz.json",
+    "om": "ranking-filtered/sq1/countries/om.json",
     "pa": "ranking-filtered/sq1/countries/pa.json",
     "pe": "ranking-filtered/sq1/countries/pe.json",
     "pg": "ranking-filtered/sq1/countries/pg.json",
